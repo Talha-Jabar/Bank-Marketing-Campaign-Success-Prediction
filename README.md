@@ -13,6 +13,8 @@ data.
 # Dataset
 - Source: Bank Marketing Dataset
 - Target Variable: y (1 = Subscribed, 0 = Not Subscribed)
+# How to run
+Place the csv file and jupyter file in the same directory.
 # Workflow
 1. Data Preprocessing
 - Handled missing values.
