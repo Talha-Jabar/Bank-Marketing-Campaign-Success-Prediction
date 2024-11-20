@@ -23,18 +23,18 @@ data.
 - Selected top 10 features based on mutual information using SelectKBest.
   
 3. Model Training
-Trained the following models:
-- Logistic Regression
-- Decision Tree
-- Random Forest (Ensemble Method)
-Used 5-fold cross-validation to prevent overfitting.
+- Trained the following models:
+  - Logistic Regression
+  - Decision Tree
+  - Random Forest (Ensemble Method)
+- Used 5-fold cross-validation to prevent overfitting.
 
 4. Evaluation
-Evaluated models using:
-o Accuracy
-o Precision
-o Recall
-o F1-Score
+- Evaluated models using:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1-Score
 - Extracted feature importance from Random Forest for interpretability.
   
 5. Results
